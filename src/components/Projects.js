@@ -1,6 +1,6 @@
 // src/components/Projects.js
 import React from 'react';
-import './Header.css';
+import './Projects.css';
 
 const Projects = () => {
   return (
